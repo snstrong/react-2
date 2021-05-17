@@ -27,6 +27,14 @@
       "description": "Crisp!",
       "recipe": "Open can.",
       "serve": "Immediately."
+    },
+    {
+      "type": "drinks",
+      "name": "Fresca",
+      "description": "A sparkling grapefruit delight",
+      "recipe": "Crack open a can.",
+      "serve": "Serve as cold as the devil's own heart.",
+      "id": "Fresca"
     }
   ],
   "snacks": [
@@ -50,6 +58,38 @@
       "description": "Tart and delicious.",
       "recipe": "Mix arugula, toasted walnuts, and thinly-sliced Parmesan cheese. Dress with lemon and olive oil.",
       "serve": "Place on tiny, precious little plates."
+    },
+    {
+      "type": "snacks",
+      "name": "Taters",
+      "description": "What's taters, precious?",
+      "recipe": "Boil 'em, mash 'em, stick 'em in a stew",
+      "serve": "Nice crispy taters",
+      "id": "Taters"
+    },
+    {
+      "type": "snacks",
+      "name": "Strawberries",
+      "description": "The jewel of any garden",
+      "recipe": "Pick. Wash.",
+      "serve": "Eat raw in large quantities.",
+      "id": "Strawberries"
+    },
+    {
+      "type": "snacks",
+      "name": "Jerk Chicken Wings",
+      "description": "Like that vacation to Jamaica I'll never go on...",
+      "recipe": "Rub wings down with seasoning. Grill. Try not to catch anything on fire.",
+      "serve": "Hot, with a side of fried plantains.",
+      "id": "Jerk Chicken Wings"
+    },
+    {
+      "type": "snacks",
+      "name": "Alphabet Soup",
+      "description": "Teaching kids their letters since I'm guessing the 1950s",
+      "recipe": "Microwave and eat",
+      "serve": "In the most nostalgic bowl you've got",
+      "id": "Alphabet Soup"
     }
   ]
 }
